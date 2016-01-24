@@ -1,4 +1,4 @@
-burial ID,Excav Date,level,Class,Position,Orientation,Head,Arms,Legs,Coffin,décor,Missing bones,DIS-Artculation,N transforms,Clothing,Sex,Age,Pathologies,Artifacts
+Burial ID,Excav Date,Level,Class,Position,Orientation,Head,Arms,Legs,Coffin,Decor,Missing Bones,DIS-Artculation,N transforms,Clothing,Sex,Age,Pathologies,Artifacts
 CNS U2-1,1/10/2010,5,D,C Dorsal,S-N,face up,extended,extended,yes,no,no,yes,bug,no,S,C,no,no
 CNS U2-2,11/10/2010,6,D,C Dorsal,S-N,face up,extended,extended,yes,no,no,yes,no,no,S,I,no,no
 CNS U2-3,7/10/2010,6,D,C Dorsal,S-N,face up,Crossed,flexed,no,no,no,no,no,yes,S,I,no,no
