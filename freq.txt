@@ -1,130 +1,130 @@
 Class
 nan:                    1
-T:                     94
-Ppr:                    2
-T/S:                    2
-S:                      8
-P:                    163
 D:                      4
+P:                    163
+T/S:                    2
 p:                      1
+S:                      8
+Ppr:                    2
+T:                     94
 
 Position
 nan:                   11
-C Ventral:              1
+C Dorsal :             14
 unusual:                1
 Sitting:                1
-C Dorsal :             14
-C Dorsal:             246
 C Dorsa:                1
+C Ventral:              1
+C Dorsal:             246
 
 Orientation
 nan:                   12
+S-N:                   53
+E-W:                    2
 N-S:                  206
 birth position:         1
-E-W:                    2
-S-N:                   53
 NE-SE:                  1
 
 Head
 nan:                   78
+north:                  2
+to east:                1
+west:                   2
 forward:                1
 face up:              181
-north:                  2
-face up :               3
-east:                   5
-west:                   2
-left:                   1
 east :                  1
-to east:                1
+east:                   5
+face up :               3
+left:                   1
 
 Arms
 nan:                   81
 flexed C:               1
 flexed A:               2
-Crossed:               11
-Flexed T:               7
-flexed P:              17
+extended:              18
+flexed T:              96
  :                      1
 flezed T:               1
-flexed:                39
-extended:              18
+flexed P:              17
  flexed P:              1
-flexed T:              96
+Crossed:               11
+Flexed T:               7
+flexed:                39
 
 Legs
 nan:                   45
 extended:             218
-extendede:              1
-flexed:                 8
-Extended:               2
 crossed:                1
+Extended:               2
+flexed:                 8
+extendede:              1
 
 Coffin
 nan:                    3
-no:                   256
 yes:                   13
+no:                   256
 no :                    2
 No:                     1
 
-décor
+Decor
 nan:                    3
-no:                   267
 yes:                    5
+no:                   267
 
-Missing bones
+Missing Bones
 nan:                    9
-no:                   165
 yes:                  101
+no:                   165
 
 DIS-Artculation
 nan:                    7
-no:                   230
- no:                    1
 yes:                   37
+ no:                    1
+no:                   230
 
 N transforms
 nan:                    6
-no:                   264
-bug:                    1
-bugs:                   1
 yes:                    3
+no:                   264
+bugs:                   1
+bug:                    1
 
 Clothing
 nan:                    5
-no:                    84
 yes:                  186
+no:                    84
 
 Sex
 nan:                    5
-V:                      2
-S:                    119
-I:                     98
-M:                     26
-F:                     23
 s:                      2
+F:                     23
+I:                     98
+V:                      2
+M:                     26
+S:                    119
 
 Age
 nan:                   17
-V:                      2
-OA:                     1
-C:                     59
-I:                     41
-MA:                     2
 A:                    129
-AS:                    15
+C:                     59
+MA:                     2
 F:                      2
+I:                     41
+OA:                     1
 YA:                     7
+AS:                    15
+V:                      2
 
 Pathologies
 nan:                    4
-no:                   253
 yes:                   18
+no:                   253
 
 Artifacts
 nan:                    4
-Yes:                    9
-no:                   254
 yes?:                   1
+no:                   254
+Yes:                    9
 no :                    1
 yes:                    6
 
