@@ -1,0 +1,276 @@
+burial ID,Excav Date,level,Class,Position,Orientation,Head,Arms,Legs,Coffin,décor,Missing bones,DIS-Artculation,N transforms,Clothing,Sex,Age,Pathologies,Artifacts
+CNS U2-1,1/10/2010,5,D,C Dorsal,S-N,face up,extended,extended,yes,no,no,yes,bug,no,S,C,no,no
+CNS U2-2,11/10/2010,6,D,C Dorsal,S-N,face up,extended,extended,yes,no,no,yes,no,no,S,I,no,no
+CNS U2-3,7/10/2010,6,D,C Dorsal,S-N,face up,Crossed,flexed,no,no,no,no,no,yes,S,I,no,no
+CNS U2-4,15/10/2010,8A,P,C Dorsal,S-N,face up,Crossed,extended,no,no,no,yes,no,no,S,I,no,no
+CNS U2-5,15/10/2010,8A,P,C Dorsal,S-N,face up,Crossed,extended,no,no,no,no,no,no,S,C,no,no
+CNS U2-6,15/10/2010,8A,P,C Ventral,S-N,to east,Crossed,flexed,no,no,yes,yes,no,yes,S,I,no,no
+CNS U2-7,19/10/2010,8A,P,C Dorsal,S-N,face up,Crossed,extended,no,no,no,no,no,yes,S,I,no,no
+CNS U2-8,19/10/2010,8A,P,C Dorsal,S-N,face up,Crossed,extended,no,no,no,no,no,yes,S,C,no,no
+CNS U2-9,25/10/2010,8A,T,C Dorsal,S-N,face up,Crossed,crossed,no,no,yes,no,no,yes,S,C,no,no
+CNS U2-10,26/10/2010,8A,S,,,,,,no,no,,,,,,,,
+CNS U2-11,26/10/2010,8A,P,C Dorsal,N-S,face up,Crossed,extended,yes,no,no,no,no,yes,S,AS,no,no
+CNS U2-12,1/11/2010,8A,P,C Dorsal,S-N,,,,no,no,no,no,no,no,I,A,no,no
+CNS U2-13,2/11/2010,8A,P,C Dorsal,N-S,face up,flexed,,no,no,no,no,no,yes,I,A,no,no
+CNS U2-14,2/11/2010,8A,P,C Dorsal,N-S,face up,,,no,no,no,no,no,yes,I,A,no,no
+CNS U2-15,10/11/2010,8A,P,C Dorsal,N-S,face up,flexed,extended,no,no,yes,yes,no,yes,I,A,no,no
+CNS U2-16,11/11/2010,8A,P,C Dorsal,N-S,,flexed,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U2-17,11/11/2010,8A,S,,,,flexed,,no,no,no,no,no,yes,,,no,no
+CNS U2-18,2/11/2010,8A,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,no,I,A,no,no
+CNS U2-19,1/11/2010,8A,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,no,I,A,no,no
+CNS U2 -20,29/10/2010,8A,P,C Dorsal,N-S,face up,Crossed,extended,no,no,no,no,no,no,S,C,no,no
+CNS U2-21,29/10/2010,8A,P,C Dorsal,N-S,face up,Crossed,flexed,no,no,no,no,no,no,F,YA,yes,no
+CNS U2-22,3/11/2010,8A,T,C Dorsal,N-S,face up,Crossed,flexed,no,no,yes,yes,no,yes,M,A,no,no
+CNS U2-23,3/11/2010,8A,T,C Dorsal,N-S,face up,,,no,no,yes,yes,no,yes,S,C,no,no
+CNS U2-24,3/1/2010,8A,T,C Dorsal,S-N,face up,,,no,no,no,no,no,no,s,C,no,no
+CNS U2-25,3/11/2010,8A,P,C Dorsal,S-N,face up,,,no,no,no,no,no,no,s,C,no,no
+CNS U2-26,5/11/2010,8A,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,no,S,I,no,no
+CNS U2-27,9/11/2010,8A,T,C Dorsal,S-N,face up,flexed,extended,no,no,yes,no,no,no,S,A,no,no
+CNS U2-28,9/11/2010,8A,p,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,no,S,I,no,no
+CNS U2-29,4/11/2010,8A,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,yes,no,no,S,AS,no,no
+CNS U2-30,4/11/2010,8A,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,yes,no,no,S,C,no,no
+CNS U2-31,4/11/2010,8A,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,no,S,I,no,no
+CNS U2-32,5/11/2010,8A,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,no,S,I,no,no
+CNS U2 -33,5/11/2010,8A,T,C Dorsal,N-S,face up,,extended,no,no,yes,no,no,no,S,C,no,no
+CNS U2-34,8/11/2010,8A,P,C Dorsal,N-S,face up,flexed,extended,no,no,no,no,no,no,S,AS,no,no
+CNS U2-35,11/11/2010,8A,T,C Dorsal,N-S,face up,flexed,extended,no,no,yes,yes,no,no,S,C,no,no
+CNS U2-36,11/11/2010,8A,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,no,S,C,no,no
+CNS U2-37,5/11/2010,8B,P,C Dorsal,S-N,face up,flexed,,no,no,no,no,no,no,S,C,no,no
+CNS U2-38,5/11/2010,8B,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,yes,S,C,no,no
+CNS U2-39,5/11/2010,8B,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,yes,S,C,no,no
+CNS U2-40,11/11/2010,8B,P,C Dorsal,S-N,face up,flexed,flexed,no,no,no,no,no,no,S,I,no,no
+CNS U2-41,12/11/2010,8B,D,Sitting,S-N,forward,flexed,flexed,no,no,no,no,bugs,no,S,I,no,no
+CNS U2-42,18/11/2010,8B,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,no,S,I,no,no
+CNS U2-43,15/11/2010,8B,P,C Dorsal,N-S,face up,flexed,extended,no,no,yes,no,no,no,M,AS,no,no
+CNS U2-44,15/11/2010,8B,P,C Dorsal,S-N,face up,flexed,extended,no,no,yes,no,no,yes,S,C,no,no
+CNS U2-45,15/11/2010,8B,T,C Dorsal,S-N,face up,flexed,extended,no,no,yes,no,no,yes,S,C,no,no
+CNS U2-46,15/11/2010,8B,T,C Dorsal,N-S,face up,,,no,no,yes,no,no,no,S,C,no,no
+CNS U2-47,16/11/2010,8B,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,yes,S,I,no,no
+CNS U2-48,18/11/2010,8B,T,C Dorsal,S-N,face up,flexed,extended,no,no,yes,no,no,yes,S,I,no,no
+CNS U2-49,18/11/2010,8B,T,C Dorsal,S-N,face up,flexed,,no,no,yes,no,no,yes,S,C,no,no
+CNS U2-50,18/11/2010,8B,T,C Dorsal,S-N,face up,flexed,,no,no,yes,no,no,yes,S,C,no,no
+CNS U2-51,23/5/2011,8C,T,C Dorsal,N-S,face up,flexed,extended,no,no,yes,no,no,yes,F,C,no,Yes
+CNS U2-52,24/5/2011,8C,P,C Dorsal,S-N,face up,flexed,extended,no,no,yes,yes,no,yes,S,I,no,no
+CNS U2-53,25/5/2011,8C,T,C Dorsal,S-N,,,extended,no,no,yes,yes,no,yes,S,I,no,no
+CNS U2-54,25/5/2011,8C,S,,,,,,no,no,,yes,no,no,S,C,no,no
+CNS U2-55,25/5/2011,8C,P,C Dorsal,S-N,face up,flexed,extended,no,no,no,no,no,yes,S,I,no,no
+CNS U2-56,25/5/2011,8C,T,,,,,,no,no,yes,yes,no,no,S,C,no,no
+CNS U2-57,25/5/2011,8C,T,C Dorsal,N-S,left,flexed,extended,no,no,yes,no,no,no,S,I,no,no
+CNS U2-58,25/5/2011,8C,P,C Dorsal,N-S,face up,flexed,extended,no,no,no,no,no,yes,M,YA,yes,no
+CNS U2-58B,27/5/2011,8C,P,unusual,N-S,face up,flexed,extended,no,no,no,no,no,yes,S,I,no,no
+CNS U2-59,27/5/2011,8C,P,C Dorsal,N-S,face up,flexed,extended,no,no,no,no,no,yes,F,A,yes,no
+CNS U2-60,30/5/2011,8C,P,C Dorsal,N-S,face up,flexed,extended,no,no,no,no,no,yes,F,A,yes,yes
+CNS U2-61,31/5/2011,8C,P,C Dorsal,N-S,face up,flexed,extended,no,no,no,no,no,yes,I,A,no,Yes
+CNS U2-62,31/5/2011,8C,T,C Dorsal,N-S,face up,extended,extended,no,no,yes,no,no,yes,S,I,no,no
+CNS U2-63,31/5/2011,8C,P,C Dorsal,N-S,face up,flexed,extended,no,no,no,no,no,yes,S,I,no,no
+CNS U2-64,31/5/2011,8C,P,C Dorsal,N-S,face up,flexed,extended,no,no,no,no,no,yes,S,I,no,no
+CNS U2-65,31/52011,8C,P,C Dorsal,N-S,face up,flexed,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-1,12/10/2010,5to8,S,,,,,,no,no,no,yes,no,no,V,V,no,no
+CNS U3-2,7/10/2010,6,P,C Dorsal,N-S,face up,extended,extended,yes,no,no,no,no,yes,S,C,no,Yes
+CNS U3-3,7/10/2010,7,P,C Dorsal,S-N,face up,extended,extended,yes,yes,no,no,yes,yes,S,C,no,Yes
+CNS U3-4,15/10/2010,5A,P,C Dorsal,S-N,face up,extended,extended,yes,yes,no,no,no,yes,S,I,no,Yes
+CNS U3-5,28/10/2010,8,S,,,,,,no,no,yes,yes,no,no,V,V,no,no
+CNS U3-5B,28/10/2010,8A,P,C Dorsal,S-N,west,extended,extended,yes,yes,no,yes,no,yes,M,OA,yes,no
+CNS U3-6,18/10/2010,8,P,C Dorsal,N-S,,,,no,no,,,,,,A,,
+CNS U3-7,8/10/2010,5B,P,C Dorsal,S-N,face up,flexed P,extended,yes,no,no,no,no,no,I,A,no,no
+CNS U3-8,18/10/2010,8A,P,C Dorsal,N-S,face up,flexed P,extended,no,no,no,yes,no,yes,M,A,no,Yes
+CNS U3-9,19/10/2010,8A,P,C Dorsal,N-S,face up,flexed C,extended,no,no,no,no,no,yes,F,A,yes,no
+CNS U3-10,19/10/2010,8A,P,C Dorsal,N-S,,,,no,no,yes,no,no,yes,F,A,no,no
+CNS U3-11,26/10/2010,8A,P,C Dorsal,S-N,face up,extended,extended,yes,yes,no,no,yes,yes,M,YA,no,Yes
+CNS U3-12,16/10/2010,8,T,C Dorsal,N-S,,,extended,no,no,yes,yes,no,yes,F,A,no,no
+CNS U3-13,19/10/2010,8A,T,C Dorsal,N-S,,,,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-14,27/10/2010,8,T,C Dorsal,N-S,face up,flexed T,,no,no,yes,no,no,yes,M,A,no,no
+CNS U3-15,27/10/2010,8A,S,,,west,,,no,no,yes,no,no,no,F,A,no,no
+CNS U3-16,28/10/2010,5B,P,C Dorsal,S-N,face up,extended,extended,yes,no,no,no,no,yes,S,C,no,Yes
+CNS U3-17,27/10/2010,5A,T,C Dorsal,S-N,,,extended,no,no,yes,no,no,yes,S,I,no,no
+CNS U3-18,29/10/2010,8A,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,S,I,no,no
+CNS U 3-19,29/10/2010,8B,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,M,A,no,no
+CNS U3-20,29/10/2010,8,T,C Dorsal,S-N,,Flexed T,extended,no,no,yes,no,no,yes,S,I,no,no
+CNS U3-21,29/10/2010,8B,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,S,AS,no,no
+CNS U3-22,21/10/201,8B,T,C Dorsal,N-S,face up,Flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-23,2/11/2010,8B,T,C Dorsal,N-S,,flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-24,5/11/2010,8B,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-25,5/11/2010,8B,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-26,20/11/2010,8B,T,C Dorsal,N-S,face up,Flexed T,extended,no,no,yes,no,no,yes,S,C,no,no
+CNS U3-27,4/11/2010,8B,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-28,4/11/2010,8B,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-29,4/11/2010,8B,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-30,4/11/2010,8B,P,C Dorsal,N-S,,Flexed T,extended,no,no,no,no,no,yes,S,C,no,no
+CNS U3-31,4/11/2010,8B,P,C Dorsal,N-S,,Flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-32,4/11/2010,8B,P,C Dorsal,N-S,,flexed T,extended,no,no,yes,yes,no,yes,S,C,no,no
+CNS U3-33,5/11/2010,8C,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-34,5/11/2010,8C,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-35,5/11/2010,8C,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-36,5/11/2010,8C,T,C Dorsal,N-S,face up,Flexed T,extended,no,no,yes,yes,no,yes,M,A,yes,no
+CNS U3-37,10/11/2010,8,P,C Dorsal,N-S,,,Extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3- 38,9/11/2010,8C,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,F,A,no,no
+CNS U3-39,5/11/2010,8C,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-40,8/11/2010,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,M,A,yes,no
+CNS U3-41,9/11/2010,8C,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,no,S,C,no,no
+CNS U3-42,11/11/2010,8C,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-43,9/11/2010,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,M,A,no,no
+CNS U3-44,4/11/2010,8C,P,C Dorsal,N-S,face up,flexed T,extended,no ,no,no, no,no,no,S,C,no,no
+CNS U3-45,9/11/2010,8C,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,no,S,C,no,no
+CNS U3-46,9/11/2010,8C,T,C Dorsal,N-S,,flexed T,extended,no,no,yes,no,no,no,S,I,no,no
+CNS U3-47,9/11/2010,8B,T,C Dorsal ,N-S,face up,flexed P,extended,no ,no,yes,yes,no,yes,S,C,no,no
+CNS U3-48,9/11/2010,8C,T,C Dorsal,N-S,face up,,extended,no,no,,,no,no,S,,no,no
+CNS U3-49,11/11/2010,8D,T,C Dorsal,N-S,face up,,extended,no,no,yes,no,no,no,S,C,no,no
+CNS U3-50,9/11/2010,8D,T,C Dorsal,N-S,face up,flexed P,extended,no,no,yes,yes,no,yes,M,A,yes,no
+CNS U3-51,11/11/2010,8D,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,yes,no,yes,S,C,no,no
+CNS U3-52,10/11/2010,8D,T,C Dorsal,N-S,face up,,,no,no,yes,yes,no,yes,S,C,no,no
+CNS U3-53,10/11/2010,8D,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,yes,no,yes,S,C,no,no
+CNS U3-54,10/11/2010,8D,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-55,10/11/2010,8D,P,C Dorsal,N-S,east,flexed T,extended,no,no,no,no,no,yes,I,A,no,no 
+CNS US-56 ,10/11/2010,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-57,11/11/2010,8D,P,C Dorsal,N-S,face up,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-58,11/11/2010,8D,T,C Dorsal ,N-S,,,,no,no,no,no,no,yes,I,A,no,no
+CNS U3-59,16/11/2010,8D,T,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,S,C,no,no
+CNS U3-60,10/11/2010,8C,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,S,I,no,no
+CNS U3-61,12/11/2010,8C,T,C Dorsal,N-S,face up,,,no,no,yes,no,no,no,S,C,no,no
+CNS U3-62,12/11/2010,8D,T,C Dorsal,N-S,face up,,,no,no,yes,no,no,no,S,C,no,no
+CNS U3-63,11/11/2010,8D,T,C Dorsal,N-S,face up,extended,,no,no,yes,no,no,no,S,C,no,no
+CNS U3-64,11/11/2010,5B,P,C Dorsal ,E-W,north,extended,extended,no,no,no,yes,no,yes,S,I,no,no
+CNS U3-65,11/11/2010,5B,P,C Dorsal,S-N,north,extended,extended,no,no,no,no,no,yes,S,I,no,Yes
+CNS U3-66,12/11/2010,8D,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-67,11/11/2010,8D,T,C Dorsal,N-S,face up,,,no,no,yes,no,no,no,S,C,no,no
+CNS U3-68,12/11/2010,8D,T,C Dorsal ,N-S,,,extended,no,no,yes,no,no,yes,S,AS,no,no
+CNS U3-69,11/11/2010,8D,P,C Dorsal,N-S,,,extended,no,no,yes,yes,no,yes,S,C,no,no
+CNS U3-70,17/11/2010,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,S,AS,no,no
+CNS U3-71,17/11/2010,8E,P,C Dorsal,N-S,face up,flexed T,Extended,no,no,no,no,no,no,F,A,no,no
+CNS U3-72,17/11/2010,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,F,A,no,no
+CNS U3-73,15/11/2010,8E,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-74A,15/11/2010,8E,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,F,A,no,no
+CNS U3-74B,15/11/2010,8E,T,C Dorsal ,birth position,,,,,,,,,,S,F,,
+CNS U3-75,16/10/2010,8E,P,C Dorsal,N-S,face up,extended,extended,yes,no,no,no,no,yes,M,A,no,no
+CNS U3-76,16/10/2010,5B,P,C Dorsal,S-N,face up,extended,extended,yes,no,no,no,no,yes,S,I,no,yes
+CNS U3-77,17/11/2010,8E,T/S,,,,,extended,no,no,yes,no,no,no,I,A,no,no
+CNS U3-78,18/11/2010,8D,T/S,,,,,,no,no,no,no,no,no,M,A,no,no
+CNS U3-79,18/11/2010,8D,T,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-80,18/11/2010,8D,T,C Dorsa,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-81,18/11/2010,8D,T,C Dorsal,N-S,,,extended,No,no,no,no,no,yes,I,A,no,no
+CNS U3-82,18/11/2010,8D,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-83,18/11/2010,8D,S,,,,,,,,,,,yes,S,C,no,no
+CNS U3-84,18/11/2010,8D,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-85,18/11/2010,8D,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,no,S,C,no,no
+CNS U3-86,18/11/2010,8E,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U3-87,19/11/2010,8E,T,C Dorsal,S-N,,,extended,no,no,yes,no,no,yes,S,C,no,no
+CNS U3-88,19/11/2010,8E,T,C Dorsal,N-S,east,flexed T,extended,no,no,yes,no,no,yes,S,C,no,no
+CNS U3-89,19/11/2010,8E,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,F,AS,no,no
+CNS U3-90,20/11/2010,8E,T,C Dorsal,N-S,,flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U3-91,20/11/2010,8E,T,C Dorsal,N-S,,flexed T,extended,no,no,yes,no,no,yes,S,C,no,no
+CNS U3-92 ,20/11/2010,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-1,19/10/20101,5,T,C Dorsal,N-S,east ,,flexed,no,no,yes,no,no,yes,S,I,no,no
+CNS U4-2,21/10/2010,6,P,C Dorsal,S-N,face up,flexed T,flexed,no,no,no,no,no,yes,S,I,no,no
+CNS U4-3,25/10/2010,8A,P,C Dorsal,N-S,face up,flexed P,extended,no,no,no,no,no,yes,M,A,no,no
+CNS U4-4,25/10/2010,8A,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,M,A,no,no
+CNS U4-5,27/10/2010,8A,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,yes,no,yes,M,A,yes,yes
+CNS U4-6,27/10/2010,8A,T,C Dorsal,N-S,face up,flexed P,extended,no,no,yes,no,no,yes,F,A,no,no
+CNS U4-7,21/10/2010,8A,P,C Dorsal,S-N,face up,flexed T,extended,no,no,no,no,no,yes,S,I,no,no
+CNS U4-8,29/10/2010,8B,P,C Dorsal,N-S,face up ,flexed T,extended,no,no,yes,no,no,yes,S,AS,no,no
+CNS U4-9,29/10/2010,8B,T,C Dorsal,N-S,face up,flexed T,,no,no,yes,no,no,yes,M,A,no,yes?
+CNS U4-10,3/11/2010,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,yes,no
+CNS U4-11,3/11/2010,8C,T,C Dorsal,N-S,face up,flexed P,,no,no,no,no,no,no,M,A,yes,no
+CNS U4-12,4/11/2010,8A,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,F,A,no,no
+CNS U4-13,4/11/2010,8B,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,F,A,no,no
+CNS U4-14,4/11/2010,8A,P,C Dorsal,NE-SE,face up,flexed T,extended,no,no,no,no,no,no,S,AS,no,no
+CNS U4-15,7/11/2010,8A,P,C Dorsal,N-S,,,extended,no,no,no,no,no,no,I,A,no,no
+CNS U4-16,9/11/2010,8A,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,M,MA,yes,no
+CNS U4-17,9/11/2010,8A,P,C Dorsal,N-S,face up,Flexed T,extended,no,no,no,no,no,no,F,MA,yes,no
+CNS U4-18,9/11/2010,8B,P,C Dorsal,N-S,,,extended,no,no,no,no,no,no,I,A,no,no
+CNS U4-19,10/11/2010,8A,T,C Dorsal,S-N,face up,flexed T,,no,no,yes,no,no,no,S,I,no,no
+CNS U4-20,10/11/2010,8A,P,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,no,I,A,no,no
+CNS U4-21,9/11/2010,8A,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,no,I,A,no,no
+CNS U4-22,11/11/2010,8B,P,C Dorsal,N-S,,,extended,no,no,no,no,no,no,I,A,no,no
+CNS U4-23,11/11/2010,8B,T,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,no,I,A,no,no
+CNS U4-24,11/11/2010,8B,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,I,A,no,no
+CNS U4-25,11/11/2010,8,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,I,A,no,no
+CNS U4-26,11/11/2010,8B,P,C Dorsal,N-S,east,flexed T,extended,no,no,no,no,no,no,I,A,no,no
+CNS U4-27,12/11/2010,8C,T,C Dorsal,N-S,,,extended,no,no,yes,yes,no,no,S,C,no,no
+CNS U4-28,16/11/2010,8A,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,I,A,no,no
+CNS U4-29,16/11/2010,8C,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,no,S,C,no,no
+CNS U4-30,15/11/2010,8B,P,C Dorsal,N-S,east,flexed T,extended,no,no,no,no,no,no,I,A,no,no
+CNS U4-31,15/11/2010,8B,T,C Dorsal ,N-S,east,flexed T,extended,no,no,no,yes,no,no,F,A,no,no
+CNS U4-32,17/11/2010,8C,T,C Dorsal,N-S,,flexed T,extended,no,no,yes,no,no,no,S,C,no,no
+CNS U4-33,17/11/2010,8C,T,C Dorsal,N-S,face up,flexed T,extendede,no,no,no,no,no,no,S,C,no,no
+CNS U4-34,19/11/2010,8D,T,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,I,A,no,no
+CNS U4 34A,25/11/2010,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,S,AS,no,no
+CNS U4-35,25/5/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,S,AS,no,no
+CNS U4-36,24/5/2011,8D,P,C Dorsal,S-N,face up,flexed T,extended,no,no,no,no,no,no,S,I,no,no
+CNS U4-37,24/5/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-38,25/5/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,F,AS,no,no
+CNS U4-39,25/5/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,F,AS,no,yes
+CNS U4-40,30/5/2011,8D,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,YA,no,no
+CNS U4-41 ,27/5/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-42,24/5/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,I,I,no,no
+CNS U4-43,,,,,,,,,,,,,,,,,,
+CNS U4-44,30/5/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,no,I,A,no,no
+ CNS U4-45,16/6/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,yes,no,yes,I,A,no,no
+CNS U4-46,30/5/2011,8D,T,C Dorsal,N-S,,,,no,no,yes,no,no,yes,I,,no,no
+CNS U4-47,30/5/2011,8D,T,C Dorsal,N-S,,,,no,no,,,,,I,C,no,no
+CNS U4-48A,16/6/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,F,YA,no,no
+CNS U4-48B,16/6/2011,8D,P,C Dorsal,S-N,face up,extended,extended,no,no,yes,no,no,no,S,F,no,no
+CNS U4-49,16/6/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,YA,no,no
+CNS U4-50,30/5/2011,8D,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-51,21/6/2011,8E,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-52,21/6/2011,8E,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-53,20/6/2011,8D,T,C Dorsal ,N-S,face up,flexed A,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-54,17/6/2011,8D,T,C Dorsal,S-N,face up,,extended,no,no,yes,no,no,yes,S,C,no,no
+CNS U4-55,20/6/2011,8E,P,C Dorsal ,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,I,YA,no,no
+CNS U4-56,20/6/2011,8E,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-57,20/6/2011,8E,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-58,23/6/2011,8E,P,C Dorsal ,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-59,23/6/2011,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-60,24/6/2011,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-61,22/6/2011,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-62,22/6/2011,8E,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4-63,23/6/2011,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,S,C,no,no
+CNS U4-64,23/6/2011,8E,P,C Dorsal,N-S,face up,extended,extended,no,no,no,no,no,yes,S,C,no,no
+CNS U4-65,21/6/2011,8E,P,C Dorsal,N-S,,flexed P,extended,no,no,no,no,no,yes,F,A,no,no
+CNS U4-66,23//2011,8E,S,C Dorsal,,,,,no,no,,yes,no,no,,,no,no
+CNS U4-67,22/6/2011,8E,P,C Dorsal,N-S,face up,flexed P,extended,no,no,no,no,no,yes,S,,no,no
+CNS U4-68,21/6/2011,8E,P,C Dorsal,N-S,,flexed A,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-69,23/6/2011,8E,P,C Dorsal,N-S,face up,flezed T,extended,no,no,no,no,no,yes,S,,no,no
+CNS U4-70,23/6/2011,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-71,23/6/2011,8E,P,C Dorsal ,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-72,24/6/2011,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-73,24/6/2011,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,S,,no,no
+CNS U4-74,24/6/2011,8E,P,C Dorsal,N-S,face up,flexed P,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-75,24/6/2011,8E,P,C Dorsal ,N-S,face up,flexed P,extended,no,no,no,no,no,yes,S,,no,no
+CNS U4-76,22/6/2011,8E,P,C Dorsal,N-S,face up,,,no,no,no,no,no,yes,M,A,no,no
+CNS U4-77,23/6/2011,8E,P,C Dorsal,N-S,face up,,,no,no,no,no,no,yes,M,A,no,no
+CNS U4-78,23/6/2011,8E,P,C Dorsal,N-S,,flexed T,extended,no,no,no,no,no,yes,F,A,no,no
+CNS U4-79,23/6/2011,8E,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-80,23/6/2011,8E,P,C Dorsal,N-S,,,,no,no,yes,no,no,yes,S,,no,no
+CNS U4-81,24/6/2011,8E,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-82,24/6/2011,8E,P,C Dorsal,N-S,face up,flexed P,extended,no,no,no,no,no,yes,I,A,no,yes
+CNS U4-83,24/6/2011,8E,P,C Dorsal ,N-S,,extended,,no,no,no,no,no,yes,I,,no,no
+CNS U4-84,27/6/2011,8E,P,C Dorsal,N-S,face up,extended,extended,no,no,no,no,no,yes,M,A,no,yes
+CNS U4-85,27/6/2011,8E,P,C Dorsal ,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-86,27/6/2011,8E,P,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4-87,28/6/2011,8E,T,C Dorsal,N-S,,,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4AE-1,25/5/2011,5,Ppr,C Dorsal,N-S,face up,flexed P,extended,no,no,yes,yes,no,yes,S,I,no,no
+CNS U4AE-2,26/5/2011,5,T,C Dorsal,E-W,face up, flexed P,extended,no,no,no,yes,yes,yes,S,I,no,no
+CNS U4AE-3,26/5/2011,5,P,C Dorsal,S-N,face up,flexed P,extended,yes,yes,no,yes,no,yes,S,I,no,no
+CNS U4AE-4,26/5/2011,5,Ppr,C Dorsal,N-S,face up,flexed P,extended,no,no,no,yes,no,yes,S,I,no,no
+CNS U4AE-5,30/5/2011,8C,P,C Dorsal,N-S,face up,flexed P,extended,no,no,no,no,no,yes,S,C,no,no
+CNS U4AE-6,30/5/2011,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,M,A,no,no
+CNS U4AE-7,30/5/2011,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,M,A,no,no
+CNS U4AE-8,22/6/2011,8C,P,C Dorsal,N-S,face up ,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4AE-9,22/6/2011,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,M,A,no,no
+CNS U4AE-10,22/6/2011,8C,P,C Dorsal,N-S,face up,flexed P,extended,no,no,no,no,no,yes,S,C,no,no
+CNS U4AE-11,22/6/2011,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,yes,no
+CNS U4AE-12,22/6/2011,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,yes,no
+CNS U4AE-13,23/6/2011,8C,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,S,C,no,no
+CNS U4AE-14,24/6/2011,8C,P,C Dorsal,N-S,face up,flexed T,,no,no,no,no,no,yes,I,A,yes,no
+CNS U4AE-15,24/6/2011,8C,T,C Dorsal,N-S,face up,flexed T,,no,no,yes,no,no,yes,I,A,yes,no
+CNS U4AE-16,25/6/2011,8B,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,AS,no,no
+CNS U4AE-17,27/6/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4AE-18,27/6/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,I,A,no,no
+CNS U4AE-19,27/6/2011,8D,P,C Dorsal ,N-S,face up,flexed T,extended,no,no,no,no,no,yes,S,,no,no
+CNS U4AE-20,27/6/2011,8D,T,C Dorsal,N-S,,,extended,no,no,yes,no,no,yes,I,A,no,no
+CNS U4AE-21,27/6/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,S,,no,no
+CNS U4AE-22,28/6/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,S,,no,no
+CNS U4AE-23,27/6/2011,8D,T,C Dorsal,N-S,,,,no,no,yes,no,no,yes,I,A,no,no
+CNS U4AE-24,30/6/2011,8D,P,C Dorsal,N-S,face up ,flexed T,extended,no,no,no,no,no,yes,S,,no,no
+CNS U4AE-25,30/6/2011,8D,P,C Dorsal,N-S,face up, ,,no,no,no,no,no,yes,I,A,no,no
+CNS U4AE-26,30/6/2011,8D,P,C Dorsal,N-S,face up,flexed T,extended,no,no,no,no,no,yes,S,,no,no
