@@ -79,12 +79,15 @@ sns.set(style="white")
 
 mask = np.zeros_like(corr, dtype=np.bool)
 mask[np.triu_indices_from(mask)] = True
-
+2
 f, ax = plt.subplots(figsize=(11,9))
-
+xticks = corr.columns
+yticks = corr.index
 cmap = sns.diverging_palette(220, 10, as_cmap=True)
-#cmap = sns.color_palette('Blues', as_cmap=True)
+plt.xticks(rotation=90)
+plt.yticks(rotation=0)
+hm = sns.heatmap(corr, mask=mask, cmap=cmap, vmax=1, vmin=-1, square=True, xticklabels=corr.index,
+            yticklabels=True, linewidths=.5, cbar=False, ax=ax)
+plt.setp(hm.get_yticklabels(), rotation=0)
 
-sns.heatmap(corr, mask=mask, cmap=cmap, vmax=1, vmin=-1, square=True, xticklabels=5,
-            yticklabels=5, linewidths=.5, cbar_kws={'shrink': .5}, ax=ax)
 plt.show()
